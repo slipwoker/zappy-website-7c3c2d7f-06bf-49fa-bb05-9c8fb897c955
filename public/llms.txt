@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover premium apps for sale or list your software on AppMarket. Connect with serious buyers and sellers in our trusted marketplace for applications.
+
+### How It Works
+https://example.com/how-it-works
+Learn how AppMarket streamlines buying and selling applications. From listing creation to final sale, our platform guides you through every step effortlessly.
+
+### For Sellers
+https://example.com/for-sellers
+Showcase your app with pricing, domain details, and visuals to attract serious buyers. Start selling your software on AppMarket&#39;s trusted platform today.
+
+### Contact
+https://example.com/contact
+Have questions about buying or selling apps? Our AppMarket team is ready to assist with listings, transactions, and platform guidance. Reach out now.
+
+### Products
+https://example.com/products
+Our Products - AppMarket
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - AppMarket
+
+### Category
+https://example.com/category/:slug
+Products - AppMarket
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
